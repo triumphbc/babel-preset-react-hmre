@@ -1,0 +1,22 @@
+{
+  "name": "babel-preset-react-hmre",
+  "version": "0.0.1",
+  "description": "Babel preset for React HMR and Error Catching",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "babel-plugin-react-transform": "^2.0.2",
+    "react-transform-catch-errors": "^1.0.2",
+    "react-transform-hmr": "^1.0.3",
+    "redbox-react": "^1.4.1"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.6.5",
+    "babel-preset-react": "^6.3.13",
+    "react": "^0.14.7"
+  }
+}
